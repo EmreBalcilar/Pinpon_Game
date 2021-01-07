@@ -1,0 +1,23 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.Form1.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\gamme\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\gamme\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\gamme\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\gamme\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\gamme\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\gamme\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\gamme\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\gamme\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Emre Balcılar 11G 2103 NTP Performans\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Emre Balcılar 11G 2103 NTP Performans\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Emre Balcılar 11G 2103 NTP Performans\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Emre Balcılar 11G 2103 NTP Performans\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Emre Balcılar 11G 2103 NTP Performans\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Emre Balcılar 11G 2103 NTP Performans\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Emre Balcılar 11G 2103 NTP Performans\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Emre Balcılar 11G 2103 NTP Performans\WindowsFormsApplication10\obj\x86\Release\WindowsFormsApplication10.csproj.GenerateResource.Cache
